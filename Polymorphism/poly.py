@@ -1,5 +1,5 @@
 #polymorphism in python
-
+ 
 class Parrot:
     def fly(self):
         print("Parrot can fly")
